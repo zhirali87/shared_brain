@@ -1,2 +1,6 @@
-# shared_brain
-Uren &amp; Zhir's Shared Docs
+# Shared Brain 
+
+## Projects Hosted
+
+- Tensor Cube
+- The Trilemma Engine
