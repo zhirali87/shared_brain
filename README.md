@@ -2,5 +2,5 @@
 
 ## Projects Hosted
 
-- Tensor Cube
+- [Tensor Cube](./tensor_cube/main.md)
 - The Trilemma Engine
